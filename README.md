@@ -1,4 +1,4 @@
-# snake_game
+# Snake Game
 
 A new Flutter project.
 
